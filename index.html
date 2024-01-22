@@ -27,22 +27,29 @@
         .button {
             display: block; /* Buttons are now full-width blocks */
             padding: 20px;
-            margin: 10px auto; /* Center buttons horizontally */
+            margin: 20px auto; /* Center buttons horizontally */
             max-width: 300px; /* Maximum width for buttons */
-            background-color: #2980b9; /* Uniform color for buttons */
             color: white;
             text-decoration: none;
             border-radius: 5px;
             font-size: 1.2rem; /* Larger font size for buttons */
-            transition: background-color 0.3s;
+            transition: all 0.3s;
             border: none;
             box-shadow: 0 4px 8px rgba(0,0,0,0.2); /* Add shadow for depth */
         }
-        .button:not(:last-child) {
-            margin-bottom: 20px; /* Add space between buttons */
+        .download-button {
+            background-color: #28a745; /* Green color for primary action */
         }
-        .button:hover {
-            background-color: #21618c; /* Darken button on hover */
+        .download-button:hover {
+            background-color: #1e874b; /* Darken button on hover */
+        }
+        .manual-button {
+            background-color: #555; /* More neutral color for secondary action */
+            opacity: 0.7; /* Less prominence */
+        }
+        .manual-button:hover {
+            background-color: #6c757d;
+            opacity: 1; /* Full color on hover for usability */
         }
         .footer {
             background-color: #2c3e50; /* Dark footer to match the gradient */
@@ -61,8 +68,8 @@
 </div>
 
 <div>
-    <a href="link-to-automatic-installer" class="button">Download PPC</a>
-    <a href="link-to-manual-download" class="button">Manual Mod Download</a>
+    <a href="link-to-automatic-installer" class="button download-button">Download PPC</a>
+    <a href="link-to-manual-download" class="button manual-button">Manual Mod Download</a>
 </div>
 
 <div class="footer">

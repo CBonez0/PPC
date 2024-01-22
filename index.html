@@ -4,8 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PPC Updater</title>
-    <link rel="icon" href="assets/ppc.ico" type="image/x-icon">
-    <link rel="shortcut icon" href="assets/ppc.ico" type="image/x-icon">
     <style>
         body {
             font-family: 'Arial', sans-serif;
@@ -14,9 +12,11 @@
             background: #f4f4f4;
             color: #333;
             text-align: center;
+            overflow-x: hidden; /* Prevents horizontal scrolling */
         }
         .container {
-            padding: 50px;
+            padding: 50px 15px; /* Added left and right padding for small screens */
+            box-sizing: border-box; /* Ensures padding is included in width */
         }
         .header {
             background-color: #007bff;
@@ -31,7 +31,7 @@
             display: inline-block;
             padding: 10px 20px;
             margin: 20px 5px;
-            background-color: #28a745;
+            background-color: #28a745; /* Green button */
             color: white;
             text-decoration: none;
             border-radius: 5px;
@@ -41,7 +41,7 @@
             display: inline-block;
             padding: 10px 20px;
             margin: 20px 5px;
-            background-color: #555;
+            background-color: #555; /* Gray button */
             color: white;
             text-decoration: none;
             border-radius: 5px;
@@ -51,8 +51,6 @@
             background-color: #333;
             color: white;
             padding: 10px;
-            position: absolute;
-            bottom: 0;
             width: 100%;
             text-align: center;
         }
@@ -66,12 +64,12 @@
 
 <div class="container">
     <p>A simple solution for updating your Lethal Company modpack.</p>
-    <a href="link-to-automatic-installer" class="download-button">Automatic Install</a>
-    <a href="link-to-manual-download" class="manual-button">Manual Download</a>
+    <a href="link-to-automatic-installer" class="download-button">Download PPC</a>
+    <a href="link-to-manual-download" class="manual-button">Manual Mod Download</a>
 </div>
 
 <div class="footer">
-    <p>© 2024 PPC Updater</p>
+    <!-- Footer text removed -->
 </div>
 
 </body>

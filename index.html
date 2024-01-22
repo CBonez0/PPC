@@ -3,67 +3,84 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PPC Updater</title>
+    <title>Minimal Mistakes</title>
     <style>
         body {
             font-family: 'Arial', sans-serif;
             margin: 0;
-            background: #333; /* Dark background for the whole page */
-            color: #fff; /* White text for better contrast */
+            padding: 0;
+            background-color: #f8f9fa;
+            color: #333;
         }
-        .header {
-            background-image: url('https://github.com/CBonez0/PPC/blob/main/header-background.png'); /* Replace with your actual image path */
-            background-size: cover;
-            background-repeat: no-repeat;
-            padding: 50px 0;
+        .container {
+            width: 80%;
+            margin: 0 auto;
             text-align: center;
         }
+        .header {
+            background-color: #eee;
+            padding: 20px;
+            margin-bottom: 30px;
+        }
         .header h1 {
-            font-size: 3em;
-            margin: 0 0 10px 0;
+            margin: 0;
         }
         .header p {
-            font-size: 1.5em;
-            margin-bottom: 20px;
+            font-size: 1em;
+            color: #666;
         }
-        .download-button {
-            display: inline-block;
-            padding: 15px 30px;
-            margin: 10px;
-            background-color: #4CAF50; /* Green background for the main button */
-            color: white;
-            text-decoration: none;
-            border-radius: 5px;
-            transition: background-color 0.3s;
-        }
-        .download-button:hover {
-            background-color: #367C39;
-        }
-        .manual-button {
+        .button {
             display: inline-block;
             padding: 10px 20px;
-            margin: 10px;
-            background-color: #555; /* More discrete button */
+            margin: 10px 0;
+            background-color: #007bff;
             color: white;
             text-decoration: none;
             border-radius: 5px;
-            transition: background-color 0.3s;
         }
-        .manual-button:hover {
-            background-color: #333;
+        .feature {
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            margin-bottom: 30px;
+            background-color: white;
+            padding: 20px;
+            border-radius: 5px;
+        }
+        .feature h2 {
+            margin-top: 0;
+        }
+        .feature p {
+            color: #666;
+        }
+        .feature img {
+            max-width: 100%;
+            height: auto;
+            background-color: #ddd; /* Placeholder for images */
         }
     </style>
 </head>
 <body>
 
-<div class="header">
-    <h1>PPC UPDATER</h1>
-    <p>A simple modpack updater for Lethal Company</p>
-    <a href="automatic-install-link" class="download-button">Automatic Install</a>
-    <a href="manual-install-link" class="manual-button">Manual Install</a>
-</div>
+<div class="container">
+    <div class="header">
+        <h1>Minimal Mistakes</h1>
+        <p>A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.</p>
+        <a href="#" class="button">Install now</a>
+    </div>
 
-<!-- Additional content would go here -->
+    <div class="feature">
+        <img src="placeholder-feature1.png" alt="Feature 1 Image">
+        <h2>Super customizable</h2>
+        <p>Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter.</p>
+        <a href="#" class="button">Learn more</a>
+    </div>
+
+    <div class="feature">
+        <img src="placeholder-feature2.png" alt="Feature 2 Image">
+        <h2>100% free</h2>
+        <p>Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!</p>
+        <a href="#" class="button">Learn more</a>
+    </div>
+</div>
 
 </body>
 </html>

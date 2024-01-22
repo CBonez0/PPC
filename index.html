@@ -3,61 +3,48 @@
 <head>
     <title>Welcome to My Website</title>
     <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-            text-align: center;
-            color: #333;
+        /* Existing Styles */
+        /* ... */
+
+        .download-section {
+            background-color: #e9e9e9;
+            padding: 20px;
+            margin-top: 20px;
         }
 
-        .container {
-            width: 80%;
-            margin: auto;
-            overflow: hidden;
-        }
-
-        header {
-            background: #50b3a2;
+        .download-button {
+            display: block;
+            width: 200px;
+            padding: 10px;
+            margin: 10px auto;
+            background: #4CAF50;
             color: white;
-            padding-top: 30px;
-            min-height: 70px;
-            border-bottom: #e8491d 3px solid;
-        }
-
-        header a {
-            color: #ffffff;
+            text-align: center;
             text-decoration: none;
-            text-transform: uppercase;
-            font-size: 16px;
+            font-weight: bold;
         }
 
-        header ul {
-            padding: 0;
-            list-style: none;
-        }
-
-        header li {
-            display: inline;
-            margin-left: 20px;
+        .download-button:hover {
+            background: #45a049;
         }
     </style>
 </head>
 <body>
-    <header>
-        <div class="container">
-            <h1>Welcome to My Website</h1>
-            <nav>
-                <ul>
-                    <li><a href="#">Home</a></li>
-                    <li><a href="https://github.com">Visit My GitHub</a></li>
-                </ul>
-            </nav>
-        </div>
-    </header>
+    <!-- Existing HTML -->
+    <!-- ... -->
+
     <div class="container">
-        <p>This is a simple static website hosted on GitHub Pages.</p>
+        <!-- Automatic Install Section -->
+        <div class="download-section">
+            <h2>Automatic Install (PPC)</h2>
+            <a href="https://github.com/CBonez0/PPC/releases/download/v1.0.0.0/PPC.exe" class="download-button">Download PPC</a>
+        </div>
+
+        <!-- Manual Install Section -->
+        <div class="download-section">
+            <h2>Manual Install (Dropbox)</h2>
+            <a href="https://www.dropbox.com/scl/fo/1qwx64hf2vh8hejgx82p0/h?rlkey=5mi4o99qu2qex4zkvmu5jmt2y&dl=1" class="download-button">Download from Dropbox</a>
+        </div>
     </div>
 </body>
 </html>

@@ -1,14 +1,98 @@
----
-layout: home
-title: "PPC"
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PPC</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            text-align: center;
+        }
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            margin: 10px;
+            background-color: #007bff;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+        .button:hover {
+            background-color: #0056b3;
+        }
+        .tab {
+            overflow: hidden;
+            border: 1px solid #ccc;
+            background-color: #f1f1f1;
+        }
+        .tab button {
+            background-color: inherit;
+            float: left;
+            border: none;
+            outline: none;
+            cursor: pointer;
+            padding: 14px 16px;
+            transition: 0.3s;
+        }
+        .tab button:hover {
+            background-color: #ddd;
+        }
+        .tab button.active {
+            background-color: #ccc;
+        }
+        .tabcontent {
+            display: none;
+            padding: 6px 12px;
+            border: 1px solid #ccc;
+            border-top: none;
+        }
+        .tabcontent.show {
+            display: block;
+        }
+    </style>
+</head>
+<body>
 
-# VirusTotal Analysis
-Content and findings from your VirusTotal analysis.
+    <h1>Welcome to My Simple Download Site</h1>
 
-# ChatGPT Output
-Display the output from ChatGPT here.
+    <a href="https://www.dropbox.com/scl/fi/du7w7s6fvjz8f7shqzyoc/PPC.exe?rlkey=1lh2i4y7sixr8bxkp43pbc8tp&dl=1" class="button">Automatic Download</a>
+    <a href="https://www.dropbox.com/scl/fo/1qwx64hf2vh8hejgx82p0/h?rlkey=5mi4o99qu2qex4zkvmu5jmt2y&dl=1" class="button">Manual Download</a>
 
-## Downloads
-- [Automatic Install (PPC)](https://github.com/CBonez0/PPC/releases/download/v1.0.0.0/PPC.exe)
-- [Manual Install (Dropbox)](https://www.dropbox.com/scl/fo/1qwx64hf2vh8hejgx82p0/h?rlkey=5mi4o99qu2qex4zkvmu5jmt2y&dl=1)
+    <div class="tab">
+        <button class="tablinks" onclick="openTab(event, 'VirusTotal')">VirusTotal Analysis</button>
+        <button class="tablinks" onclick="openTab(event, 'ChatGPT')">ChatGPT Output</button>
+    </div>
+
+    <div id="VirusTotal" class="tabcontent">
+        <h3>VirusTotal Analysis</h3>
+        <p>Here is the VirusTotal analysis...</p>
+    </div>
+
+    <div id="ChatGPT" class="tabcontent">
+        <h3>ChatGPT Output</h3>
+        <p>Here is the ChatGPT output...</p>
+    </div>
+
+    <script>
+        function openTab(evt, tabName) {
+            var i, tabcontent, tablinks;
+            tabcontent = document.getElementsByClassName("tabcontent");
+            for (i = 0; i < tabcontent.length; i++) {
+                tabcontent[i].style.display = "none";
+            }
+            tablinks = document.getElementsByClassName("tablinks");
+            for (i = 0; i < tablinks.length; i++) {
+                tablinks[i].className = tablinks[i].className.replace(" active", "");
+            }
+            document.getElementById(tabName).style.display = "block";
+            evt.currentTarget.className += " active";
+        }
+    </script>
+
+</body>
+</html>

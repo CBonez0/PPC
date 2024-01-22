@@ -5,52 +5,53 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PPC Updater</title>
     <style>
-        body, html {
-            height: 100%;
+        body {
+            font-family: 'Arial', sans-serif;
             margin: 0;
-            font-family: Arial, sans-serif;
+            padding: 0;
+            background: #f4f4f4;
+            color: #333;
+            text-align: center;
+            overflow-x: hidden; /* Prevents horizontal scrolling */
+        }
+        .container {
+            padding: 50px 15px; /* Responsive padding */
         }
         .header {
             background-color: #007bff;
-            padding: 20px;
             color: white;
-            text-align: center;
+            padding: 20px;
+            margin-bottom: 30px;
         }
         .header h1 {
             margin: 0;
         }
-        .main {
-            padding: 20px;
-            height: calc(100% - 40px); /* Adjust height calculation based on actual header/footer size */
-            background: #fff; /* Assuming a white background */
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-            text-align: center;
-        }
-        .description {
-            margin-bottom: 20px;
-        }
         .download-button {
+            display: inline-block;
             padding: 10px 20px;
-            margin: 0 5px; /* Spacing between buttons */
-            background-color: #28a745; /* Green button */
+            margin: 20px 5px;
+            background-color: #28a745; /* Changed to a more vibrant green */
             color: white;
             text-decoration: none;
-            border: none;
             border-radius: 5px;
-            cursor: pointer;
+            font-size: 18px;
         }
         .manual-button {
+            display: inline-block;
             padding: 10px 20px;
-            margin: 0 5px;
-            background-color: #6c757d; /* Gray button */
+            margin: 20px 5px;
+            background-color: #6c757d; /* Bootstrap's secondary button color for better contrast */
             color: white;
             text-decoration: none;
-            border: none;
             border-radius: 5px;
-            cursor: pointer;
+            font-size: 18px;
+        }
+        .footer {
+            background-color: #333;
+            color: white;
+            padding: 10px;
+            width: 100%;
+            text-align: center;
         }
     </style>
 </head>
@@ -60,10 +61,14 @@
     <h1>PPC Updater</h1>
 </div>
 
-<div class="main">
-    <p class="description">A simple solution for updating your Lethal Company modpack.</p>
-    <button onclick="location.href='link-to-automatic-installer';" class="download-button">Download PPC</button>
-    <button onclick="location.href='link-to-manual-download';" class="manual-button">Manual Mod Download</button>
+<div class="container">
+    <p>A simple solution for updating your Lethal Company modpack.</p>
+    <a href="link-to-automatic-installer" class="download-button">Download PPC</a>
+    <a href="link-to-manual-download" class="manual-button">Manual Mod Download</a>
+</div>
+
+<div class="footer">
+    <p>© 2024 PPC Updater</p>
 </div>
 
 </body>

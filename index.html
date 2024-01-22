@@ -5,52 +5,47 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PPC Updater</title>
     <style>
-        html, body {
-            height: 100%;
+        body {
+            font-family: 'Arial', sans-serif;
             margin: 0;
             padding: 0;
-            font-family: 'Arial', sans-serif;
             background: linear-gradient(to bottom, #2c3e50, #34495e); /* Dark gradient background */
             color: #fff; /* Light text for dark background */
             text-align: center;
-        }
-        .container {
-            padding: 30px 15px;
-            margin: auto;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
+            overflow-x: hidden;
         }
         .header {
             background: linear-gradient(to right, #243b55, #141e30); /* Dark blue gradient for the header */
             color: white;
             padding: 40px;
-            margin-bottom: 30px; /* More space after the header */
+            margin-bottom: 50px; /* More space after the header */
         }
         .header h1 {
             margin: 0;
             font-size: 2.5rem; /* Larger font size for header */
         }
         .button {
-            display: inline-block; /* Center buttons horizontally */
-            padding: 10px 20px;
-            margin: 20px 5px;
-            border-radius: 5px;
-            font-size: 1rem;
-            text-decoration: none;
+            display: block; /* Buttons are now full-width blocks */
+            padding: 20px;
+            margin: 20px auto; /* Center buttons horizontally */
+            max-width: 300px; /* Maximum width for buttons */
             color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 1.2rem; /* Larger font size for buttons */
+            font-weight: bold; /* Bold font weight for button text */
             transition: all 0.3s;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.2); /* Add shadow for depth */
+            border: none;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2); /* Add shadow for depth */
         }
         .download-button {
-            background-color: #007bff; /* Vibrant blue for the main download button */
-            font-weight: bold; /* Bold font for button text */
+            background-color: #3498db; /* Vibrant blue color for primary action */
         }
         .download-button:hover {
-            background-color: #0056b3; /* Darken button on hover */
+            background-color: #2980b9; /* Darken button on hover */
         }
         .manual-button {
-            background-color: #555; /* Neutral color for the manual button */
+            background-color: #555; /* More neutral color for secondary action */
             opacity: 0.7; /* Less prominence */
         }
         .manual-button:hover {
@@ -62,9 +57,7 @@
             color: white;
             padding: 20px;
             text-align: center;
-            position: relative; /* Changed to relative to stay at the end of content */
-            width: 100%;
-            margin-top: auto; /* Pushes footer to bottom */
+            margin-top: 50px; /* Space before the footer */
         }
     </style>
 </head>
@@ -75,8 +68,8 @@
     <p>A simple solution for updating your Lethal Company modpack.</p>
 </div>
 
-<div class="container">
-    <a href="link-to-automatic-installer" class="button download-button">Download PPC</a>
+<div>
+    <a href="link-to-automatic-installer" class="button download-button">Download PPC Updater</a>
     <a href="link-to-manual-download" class="button manual-button">Manual Mod Download</a>
 </div>
 

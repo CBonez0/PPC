@@ -18,7 +18,7 @@ _____________________
 
 [A simple video tutorial](https://youtu.be/g3WjZKypkIM) showcasing the installation process. 
 
-_Open the video in a new tab, if you do not want to leave the site yet_
+_(Open the video in a new tab, if you do not want to leave the site yet)_
 
 # **Downloads**
 _____________________

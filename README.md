@@ -1,3 +1,3 @@
-A simple modpack updater for Lethal Company, desgined to be as simple as possible, for a small group of friends.
+### A simple modpack updater for Lethal Company, desgined to be as simple as possible.
 
-Coded using Powershell. Compiled as an executable using PS2EXE.
+#### **[Download PPC Updater.exe](https://github.com/CBonez0/PPC/releases/download/v1.0.0.0/PPC.exe)**.

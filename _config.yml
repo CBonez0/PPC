@@ -1,3 +1,4 @@
 remote_theme: pages-themes/midnight
 title: PPC Updater
 description: A simple solution for updating your modpack
+show_downloads: true

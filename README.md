@@ -1,8 +1,7 @@
-# Downloads
+# **Downloads**
 
 # ---------
 
-## **[Download PPC Updater.exe](https://github.com/CBonez0/PPC/releases/download/v1.0.0.0/PPC.exe)**
-### [Download the mods manually ](ex.link)
+## __**[Download PPC Updater](https://github.com/CBonez0/PPC/releases/download/v1.0.0.0/PPC.exe)**__
 
-![The San Juan Mountains are beautiful!](/assets/ppc.ico)
+### __[Download the mods manually ](ex.link)__

@@ -1,5 +1,5 @@
 # **FAQ**
-________________________________________________________
+_____________________
 
 Q: What does PPC Updater do?
 
@@ -16,8 +16,10 @@ A: Most anti-virus programs commonly detects files as suspicious when they insta
 # **Video tutorial**
 _____________________
 
+[A simple video tutorial[() showcasing the downloading of the program.
+
 # **Downloads**
-________________________________________________________
+_____________________
 
 _[Download PPC Updater v1.0.0.1](https://github.com/CBonez0/PPC/releases/download/v1.0.0.1/PPC.Updater.exe)_
 

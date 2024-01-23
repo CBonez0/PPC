@@ -18,4 +18,4 @@ ________________________________________________________
 
 [Download PPC Updater v1.0.0.0](https://github.com/CBonez0/PPC/releases/download/v1.0.0.0/PPC.exe)
 
-if you encounter issues using the updater, consider _[installing the mods manually ](ex.link)_
+if you encounter issues using the updater, consider _[installing the mods manually ]("https://www.dropbox.com/scl/fo/1qwx64hf2vh8hejgx82p0/h?rlkey=5mi4o99qu2qex4zkvmu5jmt2y&dl=1")_

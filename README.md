@@ -16,7 +16,7 @@ A: Most anti-virus programs commonly detects files as suspicious when they insta
 # **Video tutorial**
 _____________________
 
-[A simple video tutorial](https://youtu.be/g3WjZKypkIM) showcasing the installation process. 
+[How to download: A video tutorial](https://youtu.be/g3WjZKypkIM)
 
 _(Open the video in a new tab, if you do not want to leave the site yet)_
 

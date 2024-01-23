@@ -1,4 +1,4 @@
-# FAQ
+# **FAQ**
 
 Q: What does PPC Updater do?
 
@@ -11,8 +11,9 @@ A: No, all the resources used, are open-source and available for preview within 
 Q: Why does my anti-virus software flag your program as malware?
 
 A: Most anti-virus programs commonly detects files as suspicious when they install and modify files within your system. This kind of behaviour is to be expected and simply means that your anti-virus software is working as intended.
+_ _
+# **Downloads**
 
-__ __
-> # _**[Download PPC Updater](https://github.com/CBonez0/PPC/releases/download/v1.0.0.0/PPC.exe)**_
+## [Download PPC Updater](https://github.com/CBonez0/PPC/releases/download/v1.0.0.0/PPC.exe)
 
 if you encounter issues using the updater, consider _[installing the mods manually ](ex.link)_

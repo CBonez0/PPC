@@ -6,7 +6,7 @@ _____________________
   <br>
   <p>The program automatically downloads and updates your Lethal Company modding files and modpack.</p>
 </details>
-<br>
+
 <details>
   <summary><strong>Will this program put a virus on my PC?</strong></summary>
   <br>

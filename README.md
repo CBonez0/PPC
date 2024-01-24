@@ -16,13 +16,11 @@ A: Most anti-virus programs commonly detects files as suspicious when they insta
 # **Tutorials**
 _____________________
 
-<a href="https://youtu.be/g3WjZKypkIM" target="_blank">This link will open in a new tab</a> [How to download: A video tutorial](https://youtu.be/g3WjZKypkIM)
-
-_(Open the video in a new tab, if you do not want to leave the site yet)_
+If you're having issues with the download, check out this <a href="https://youtu.be/g3WjZKypkIM" target="_blank">video tutorial</a>.
 
 # **Downloads**
 _____________________
 
 [Download PPC-Updater v1.0.0.1](https://github.com/CBonez0/PPC/releases/download/v1.0.0.1/PPC-Updater.exe)
 
-If the video tutorial does not help resolve your issues, consider [installing the mods manually ](https://www.dropbox.com/scl/fo/1qwx64hf2vh8hejgx82p0/h?rlkey=5mi4o99qu2qex4zkvmu5jmt2y&dl=1)
+If the video tutorial does not help resolve your issues, consider [installing the mods manually](https://www.dropbox.com/scl/fo/1qwx64hf2vh8hejgx82p0/h?rlkey=5mi4o99qu2qex4zkvmu5jmt2y&dl=1).

@@ -1,24 +1,14 @@
 # **FAQ**
 _____________________
 
-<details>
-  <summary><strong>What does PPC Updater do?</strong></summary>
-  <br>
-  <p>The program automatically downloads and updates your Lethal Company modding files and modpack.</p>
-</details>
+**Q: What does PPC Updater do?**<br>
+A: The program automatically downloads and updates your Lethal Company modding files and modpack.
 
-<details>
-  <summary><strong>Will this program put a virus on my PC?</strong></summary>
-  <br>
-  <p>No, all the resources used are open-source and available for preview within the manual download link.</p>
-</details>
-<br>
-<details>
-  <summary><strong>Why does my anti-virus software flag your program as malware?</strong></summary>
-  <br>
-  <p>Most anti-virus programs detect programs that install and modify files within your system as suspicious. This kind of behavior is to be expected and simply means that your anti-virus software is working as intended.</p>
-</details>
-<br>
+**Q: Will this program put a virus on my PC?**<br>
+A: No, all the resources used are open-source and available for preview within the manual download link.
+
+**Q: Why does my anti-virus software flag your program as malware?**<br>
+A: Most anti-virus programs commonly detect files as suspicious when they install and modify files within your system. This kind of behavior is to be expected and simply means that your anti-virus software is working as intended.
 
 # **Tutorials**
 _____________________

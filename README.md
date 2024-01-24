@@ -17,10 +17,7 @@ _____________________
     <strong><a href="https://github.com/CBonez0/PPC/releases/download/v1.0.0.1/PPC-Updater.exe">Download the latest version of PPC Updater</a></strong>
 </blockquote>
 
-
-<blockquote style="font-style: normal;">
-    <a href="https://www.dropbox.com/scl/fo/1qwx64hf2vh8hejgx82p0/h?rlkey=5mi4o99qu2qex4zkvmu5jmt2y&dl=1">Manual mod download</a>
-</blockquote>
+> ex link
 <br>
 
 # **Help**

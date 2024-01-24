@@ -6,7 +6,7 @@ PPC Updater is a lightweight and simple program for automatically updating your 
 <blockquote style="font-style: normal;">
     <strong><a href="https://github.com/CBonez0/PPC/releases/download/v1.0.0.1/PPC-Updater.exe">Click here to download the latest version of PPC Updater</a></strong>.
 </blockquote>
-<br><br>
+<br>
 
 # **FAQ**
 _____________________

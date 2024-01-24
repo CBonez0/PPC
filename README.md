@@ -1,20 +1,19 @@
-# **FAQ**
+# **About**
 _____________________
 
-**Q: What does PPC Updater do?**<br>
-A: The program automatically downloads and updates your Lethal Company modding files and modpack.
+PPC Updater is a lightweight and simple program for automatically updating your Lethal Company modding files and modpack.
+
+[**Click here to download the latest version of PPC Updater**](https://github.com/CBonez0/PPC/releases/download/v1.0.0.1/PPC-Updater.exe)
+<br><br>
+
+# **FAQ**
+_____________________
 
 **Q: Will this program put a virus on my PC?**<br>
 A: No, all the resources used are open-source and available for preview within the manual download link.
 
 **Q: Why does my anti-virus software flag your program as malware?**<br>
 A: Most anti-virus programs commonly detect files as suspicious when they install and modify files within your system. This kind of behavior is to be expected and simply means that your anti-virus software is working as intended.<br><br>
-
-# **Downloads**
-_____________________
-
-[**Download the latest version of PPC Updater**](https://github.com/CBonez0/PPC/releases/download/v1.0.0.1/PPC-Updater.exe)
-<br><br>
 
 # **Help**
 _____________________

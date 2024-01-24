@@ -8,7 +8,7 @@ A: The program automatically downloads and updates your Lethal Company modding f
 A: No, all the resources used are open-source and available for preview within the manual download link.
 
 **Q: Why does my anti-virus software flag your program as malware?**<br>
-A: Most anti-virus programs commonly detect files as suspicious when they install and modify files within your system. This kind of behavior is to be expected and simply means that your anti-virus software is working as intended.
+A: Most anti-virus programs commonly detect files as suspicious when they install and modify files within your system. This kind of behavior is to be expected and simply means that your anti-virus software is working as intended.<br><br>
 
 # **Tutorials**
 _____________________

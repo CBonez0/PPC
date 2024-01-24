@@ -11,12 +11,12 @@ A: No, all the resources used are open-source and available for preview within t
 
 Q: Why does my anti-virus software flag your program as malware?
 
-A: Most anti-virus programs commonly detect files as suspicious when they install and modify files within your system. This kind of behavior is to be expected and simply means that your anti-virus software is working as intended.
+A: Most anti-virus programs commonly detect files as suspicious when they install and modify files within your system. This kind of behavior is to be expected and simply means that your anti-virus software is working as intended.<br><br>
 
 # **Tutorials**
 _____________________
 
-If you're having issues with the download, check out this <a href="https://youtu.be/g3WjZKypkIM" target="_blank">video tutorial</a>.
+If you're having issues with the download, check out this <a href="https://youtu.be/g3WjZKypkIM" target="_blank">video tutorial</a>.<br><br>
 
 # **Downloads**
 _____________________

@@ -6,13 +6,13 @@ _____________________
   <br>
   <p>The program automatically downloads and updates your Lethal Company modding files and modpack.</p>
 </details>
-
+<br>
 <details>
   <summary><strong>Will this program put a virus on my PC?</strong></summary>
   <br>
   <p>No, all the resources used are open-source and available for preview within the manual download link.</p>
 </details>
-
+<br>
 <details>
   <summary><strong>Why does my anti-virus software flag your program as malware?</strong></summary>
   <br>
@@ -28,6 +28,6 @@ If you're having issues with the download, check out this <a href="https://youtu
 # **Downloads**
 _____________________
 
-[Download PPC-Updater v1.0.0.1](https://github.com/CBonez0/PPC/releases/download/v1.0.0.1/PPC-Updater.exe)
+[**Download PPC-Updater v1.0.0.1**](https://github.com/CBonez0/PPC/releases/download/v1.0.0.1/PPC-Updater.exe)
 
 If the video tutorial does not help resolve your issues, consider [installing the mods manually](https://www.dropbox.com/scl/fo/1qwx64hf2vh8hejgx82p0/h?rlkey=5mi4o99qu2qex4zkvmu5jmt2y&dl=1).

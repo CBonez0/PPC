@@ -21,3 +21,5 @@ _____________________
 _____________________
 
 If you're having issues with the download, check out this <a href="https://youtu.be/g3WjZKypkIM" target="_blank">video tutorial</a>.
+
+Alternatively, install the mods yourself, using the "Manual mod download" option.

@@ -13,14 +13,9 @@ A: Most anti-virus programs commonly detect files as suspicious when they instal
 # **Downloads**
 _____________________
 
-<blockquote style="font-style: normal;">
-    <strong><a href="https://github.com/CBonez0/PPC/releases/download/v1.0.0.1/PPC-Updater.exe">Download the latest version of PPC Updater</a></strong>
-</blockquote>
+[**Download PPC-Updater v1.0.0.1**](https://github.com/CBonez0/PPC/releases/download/v1.0.0.1/PPC-Updater.exe)
 
-<blockquote style="font-style: normal;">
-    <strong><a href="https://github.com/CBonez0/PPC/releases/download/v1.0.0.1/PPC-Updater.exe">Download the latest version of PPC Updater</a></strong>
-</blockquote>
-<br>
+[Download the mods manually](https://www.dropbox.com/scl/fo/1qwx64hf2vh8hejgx82p0/h?rlkey=5mi4o99qu2qex4zkvmu5jmt2y&dl=1)
 
 # **Help**
 _____________________

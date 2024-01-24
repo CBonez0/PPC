@@ -13,14 +13,12 @@ A: Most anti-virus programs commonly detect files as suspicious when they instal
 # **Downloads**
 _____________________
 
-[**Download PPC-Updater v1.0.0.1**](https://github.com/CBonez0/PPC/releases/download/v1.0.0.1/PPC-Updater.exe)
+[**Download the latest version of PPC Updater**](https://github.com/CBonez0/PPC/releases/download/v1.0.0.1/PPC-Updater.exe)
 
-[Download the mods manually](https://www.dropbox.com/scl/fo/1qwx64hf2vh8hejgx82p0/h?rlkey=5mi4o99qu2qex4zkvmu5jmt2y&dl=1)
+[Alternatively, you install the mods yourself](https://www.dropbox.com/scl/fo/1qwx64hf2vh8hejgx82p0/h?rlkey=5mi4o99qu2qex4zkvmu5jmt2y&dl=1)
 <br><br>
 
 # **Help**
 _____________________
 
 If you're having issues with the download, check out this <a href="https://youtu.be/g3WjZKypkIM" target="_blank">video tutorial</a>.
-
-Alternatively, install the mods yourself, using the "Manual mod download" option.

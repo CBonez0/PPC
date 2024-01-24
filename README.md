@@ -17,7 +17,9 @@ _____________________
     <strong><a href="https://github.com/CBonez0/PPC/releases/download/v1.0.0.1/PPC-Updater.exe">Download the latest version of PPC Updater</a></strong>
 </blockquote>
 
-> ex link
+<blockquote style="font-style: normal;">
+    <strong><a href="https://github.com/CBonez0/PPC/releases/download/v1.0.0.1/PPC-Updater.exe">Download the latest version of PPC Updater</a></strong>
+</blockquote>
 <br>
 
 # **Help**
